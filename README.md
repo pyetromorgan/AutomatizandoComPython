@@ -101,17 +101,6 @@ Exemplo:
 
 ---
 
-## Possíveis Melhorias
-
-- Utilizar reconhecimento de imagem (`pyautogui.locateOnScreen`) em vez de coordenadas fixas.
-- Ler as credenciais por variáveis de ambiente.
-- Adicionar tratamento de erros.
-- Implementar logs da execução.
-- Criar uma interface gráfica.
-- Utilizar Selenium ou Playwright para uma automação web mais robusta.
-
----
-
 ## Bibliotecas
 
 - **PyAutoGUI** → Automação de mouse e teclado.
